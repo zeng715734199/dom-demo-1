@@ -1,0 +1,7 @@
+const div1 = dom.create('<div>newDiv</div>')
+console.log(div1)
+
+dom.after(test, div1)
+
+const y = dom.next(shit)
+console.log(y)

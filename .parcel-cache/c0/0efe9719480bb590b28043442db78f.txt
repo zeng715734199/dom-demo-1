@@ -1,0 +1,11 @@
+10
+38C:\Users\71573\Desktop\dom-demo-1\dist132662523487025481 1
+37C:\Users\71573\Desktop\dom-demo-1\src132660592739743386 1
+44C:\Users\71573\Desktop\dom-demo-1\src\dom.js132662523485741760 0
+48C:\Users\71573\Desktop\dom-demo-1\src\index.html132662493283011318 0
+60C:\Users\71573\Desktop\dom-demo-1\dist\index.9b0ae0e5.js.map132662523486995560 0
+56C:\Users\71573\Desktop\dom-demo-1\dist\index.9b0ae0e5.js132662523486925756 0
+45C:\Users\71573\Desktop\dom-demo-1\src\main.js132662515990826286 0
+60C:\Users\71573\Desktop\dom-demo-1\dist\index.bd78eeec.js.map132662523486985584 0
+56C:\Users\71573\Desktop\dom-demo-1\dist\index.bd78eeec.js132662523486925756 0
+49C:\Users\71573\Desktop\dom-demo-1\dist\index.html132662523486915766 0
