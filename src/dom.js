@@ -103,7 +103,7 @@ window.dom = {
     },
     //查
     find(selector, scope){   //scope范围, 比如，在div1这个范围里面，里面找div2，就需要用到scope
-        (scope || document).querySelectorAll(selector)
+        return (scope || document).querySelectorAll(selector)
     },
     parent(node){
         return node.parentNode
